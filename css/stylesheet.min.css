@@ -708,7 +708,7 @@ footer.innerpage-footer{display: block; height: auto;}
 .cont-sec-2 .addrs-block .mailid{background: url(../images/mail-grey.png) no-repeat left top 3px;}
 .cont-sec-2 .addrs-block .talephone{background: url(../images/phone-grey.png) no-repeat left top 3px; }
 .cont-sec-2 .addrs-block.qatar{background: url(../images/qatar-bg2.jpg) no-repeat center top; background-size: cover; background-repeat: no-repeat;}
-.cont-sec-2 .addrs-block.uae{background: url(../images/uae-bg.jpg) no-repeat center top; background-size: cover; background-repeat: no-repeat;}
+.cont-sec-2 .addrs-block.uae{background: url(../images/uae-bg.jpg) no-repeat center top; background-size: cover; background-repeat: no-repeat; display: none;}
 .cont-sec-2 .addrs-block.kuwait{background: url(../images/kuwait-bg.jpg) no-repeat center top; background-size: cover; background-repeat: no-repeat;}
 .cont-sec-2 .addrs-block.saudiarabia{background: url(../images/saudiarabia-bg.jpg) no-repeat center top; background-size: cover; background-repeat: no-repeat;}
 
